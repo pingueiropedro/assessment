@@ -2,3 +2,5 @@ Streamlit
 statsbombpy
 mplsoccer
 matplotlib.plt
+pandas
+seaborn

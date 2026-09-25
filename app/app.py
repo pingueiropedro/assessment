@@ -413,7 +413,7 @@ if len(shots_player) == 0:
 else:
     pitch_shot = Pitch(
         pitch_type='statsbomb',
-        pitch_color='#0E1117',
+        pitch_color='#0E1118',
         line_color='white'
     )
 
