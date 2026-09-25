@@ -1,6 +1,6 @@
 Streamlit
 statsbombpy
 mplsoccer
-matplotlib.plt
+matplotlib.pyplot
 pandas
 seaborn
